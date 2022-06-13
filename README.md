@@ -5,10 +5,9 @@ This repository contains my first django project.
 For this repository, you'll need 
 - To have python installed
 - To create a virtual environment
-- To install the django module with "pip install django"
 
 ## Modules Used
-The only module used in this project is the random module
+- django
 
 ## Known Bugs
 There are currently no known bugs
